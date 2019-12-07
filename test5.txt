@@ -1,0 +1,23 @@
+Music Analyzer Report
+
+song plays over 200
+name: Losing Touch artist: The Killers album: Day & Age (Deluxe Version) Genre: Alternative size: 9539055 time: 253 year: 2008 plays: 478
+name: Tranquilize (Feat. Lou Reed) artist: The Killers album: Sawdust Genre: Alternative size: 8405381 time: 225 year: 2007 plays: 433
+name: "Ruby, Don't Take Your Love to Town" artist: The Killers album: Sawdust Genre: Alternative size: 6571031 time: 185 year: 2007 plays: 256
+
+amount of alternative songs
+
+welcome to the fishbowl songs
+name: Come Over artist: Kenny Chesney album: Welcome to the Fishbowl Genre: Country size: 10055955 time: 249 year: 2012 plays: 31
+name: Feel like a Rock Star (with Tim McGraw) artist: Kenny Chesney album: Welcome to the Fishbowl Genre: Country size: 8419705 time: 208 year: 2012 plays: 23
+name: Welcome to the Fishbowl artist: Kenny Chesney album: Welcome to the Fishbowl Genre: Country size: 8487591 time: 210 year: 2012 plays: 10
+
+song playlist from before 1970
+name: "Hello, I Love You" artist: The Doors album: The Very Best of The Doors Genre: Rock size: 5438829 time: 136 year: 1968 plays: 5
+
+
+songs with names longer than 85 characters
+name: "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)"
+
+Longest song name
+longest song: 482
